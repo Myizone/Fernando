@@ -1,5 +1,5 @@
 # Tes HTML 1
-HTML sederhana terdapat atribut\
+HTML sederhana terdapat Atribut\
 -Class\
 -Menu\
 -Logo\
